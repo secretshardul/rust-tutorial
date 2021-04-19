@@ -1,2 +1,6 @@
 # rust-tutorial
-Personal Rust notes
+
+## Index
+1. [Printing outputs](./1-printing)
+
+
